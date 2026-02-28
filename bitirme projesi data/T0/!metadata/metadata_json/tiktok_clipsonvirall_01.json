@@ -1,0 +1,25 @@
+{
+  "item_id": "tiktok_clipsonvirall_01",
+  "platform": "tiktok",
+  "content_type": "video",
+  "author_handle": "clipsonvirall",
+  "author_profile_url": "https://www.tiktok.com/@clipsonvirall",
+  "published_at_visible": "2025-10-31",
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T0",
+  "engagement_observed": {
+    "likes": 109,
+    "views": null,
+    "comments_count": 5,
+    "shares": 10,
+    "saves": 13
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "clipsonvirall.png"
+    ]
+  },
+  "notes": "Saved/bookmark count visible: 13"
+}

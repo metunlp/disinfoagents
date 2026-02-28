@@ -1,0 +1,24 @@
+{
+  "item_id": "fb_radio_la_voz_del_tambo_01",
+  "platform": "facebook",
+  "content_type": "video",
+  "author_handle": "Radio la Voz del Tambo 89.3Fm",
+  "author_profile_url": null,
+  "published_at_visible": null,
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T0",
+  "engagement_observed": {
+    "likes": 2,
+    "views": null,
+    "comments_count": 0,
+    "shares": 0
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "radio la voz.png"
+    ]
+  },
+  "notes": "Comment/share counts not visible."
+}

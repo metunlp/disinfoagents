@@ -1,0 +1,24 @@
+{
+  "item_id": "fb_nuestrasnoticias_01",
+  "platform": "facebook",
+  "content_type": "image",
+  "author_handle": "Nuestras Noticias",
+  "author_profile_url": null,
+  "published_at_visible": "2025-10-29",
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T0",
+  "engagement_observed": {
+    "reactions": 2,
+    "comments_count": 0,
+    "shares": null,
+    "views": null
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "nuestrasnoticias.png"
+    ]
+  },
+  "notes": "Photo post/collage; UI indicates no comments yet."
+}

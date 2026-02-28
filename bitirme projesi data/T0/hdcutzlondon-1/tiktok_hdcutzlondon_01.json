@@ -1,0 +1,25 @@
+{
+  "item_id": "tiktok_hdcutzlondon_01",
+  "platform": "tiktok",
+  "content_type": "video",
+  "author_handle": "hdcutzlondon",
+  "author_profile_url": "https://www.tiktok.com/@hdcutzlondon",
+  "published_at_visible": "2025-10-31",
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T0",
+  "engagement_observed": {
+    "likes": 779,
+    "views": null,
+    "comments_count": 54,
+    "shares": 533,
+    "saves": 148
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "hdcutzlondon.png"
+    ]
+  },
+  "notes": "Saved/bookmark count visible: 148. Location tag “Montego Bay” visible."
+}

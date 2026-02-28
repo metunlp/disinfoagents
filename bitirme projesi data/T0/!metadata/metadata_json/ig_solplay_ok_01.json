@@ -1,0 +1,24 @@
+{
+  "item_id": "ig_solplay_ok_01",
+  "platform": "instagram",
+  "content_type": "video",
+  "author_handle": "solplay.ok",
+  "author_profile_url": "https://www.instagram.com/solplay.ok/",
+  "published_at_visible": null,
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T0",
+  "engagement_observed": {
+    "likes": 381,
+    "views": null,
+    "comments_count": 2,
+    "shares": 0
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "solplayok.png"
+    ]
+  },
+  "notes": "Engagement not visible (cropped)."
+}

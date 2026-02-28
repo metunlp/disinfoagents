@@ -1,0 +1,25 @@
+{
+  "item_id": "ig_diariodelpaisrd_01",
+  "platform": "instagram",
+  "content_type": "video",
+  "author_handle": "diariodelpaisrd",
+  "author_profile_url": "https://www.instagram.com/diariodelpaisrd/",
+  "published_at_visible": null,
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T0",
+  "engagement_observed": {
+    "likes": 1860,
+    "comments_count": 88,
+    "views": null,
+    "shares": 0,
+    "saves": 0
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "diariodelpaisrd.png"
+    ]
+  },
+  "notes": "Overlay text 'diariodelpais.com' and caption claims sharks in hotel pool after Hurricane Melissa."
+}

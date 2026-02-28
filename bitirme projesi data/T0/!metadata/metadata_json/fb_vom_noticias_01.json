@@ -1,0 +1,24 @@
+{
+  "item_id": "fb_vom_noticias_01",
+  "platform": "unknown",
+  "content_type": "video",
+  "author_handle": "VOM Noticias",
+  "author_profile_url": null,
+  "published_at_visible": null,
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "NEEDS_REVIEW",
+  "engagement_observed": {
+    "likes": 4400,
+    "views": null,
+    "comments_count": 114,
+    "shares": 654
+  },
+  "has_comments_in_capture": null,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "vom noticias.png"
+    ]
+  },
+  "notes": "Screenshot couldn’t be opened due to tool error; re-send and I’ll fill."
+}

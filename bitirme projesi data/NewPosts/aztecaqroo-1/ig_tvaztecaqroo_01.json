@@ -1,0 +1,25 @@
+{
+  "item_id": "ig_tvaztecaqroo_01",
+  "platform": "instagram",
+  "content_type": "video",
+  "author_handle": "tvaztecaqroo",
+  "author_profile_url": "https://www.instagram.com/tvaztecaqroo/",
+  "published_at_visible": null,
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T1",
+  "engagement_observed": {
+    "likes": 182,
+    "comments_count": 8,
+    "views": null,
+    "shares": 0,
+    "saves": 0
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "tvaztecaqroo.png"
+    ]
+  },
+  "notes": "Caption mentions the video may be AI-generated 'según varios internautas' (skepticism)."
+}
