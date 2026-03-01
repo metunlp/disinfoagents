@@ -1,0 +1,25 @@
+{
+  "item_id": "fb_mexicoahoranoticias_01",
+  "platform": "facebook",
+  "content_type": "video",
+  "author_handle": "México Ahora Noticias",
+  "author_profile_url": null,
+  "published_at_visible": "2025-10-28",
+  "captured_at": "2026-02-21T15:40:00+03:00",
+  "time_slice": "T2",
+  "engagement_observed": {
+    "reactions": 150,
+    "comments_count": 8,
+    "shares": 114,
+    "views": 42000,
+    "views_raw": "42 B"
+  },
+  "has_comments_in_capture": false,
+  "permalink_url": null,
+  "assets": {
+    "screenshot_files": [
+      "mexicoahoranoticias.png"
+    ]
+  },
+  "notes": "Post text explicitly states: 'ESTE VIDEO ES FICCIÓN, FUE CREADO POR INTELIGENCIA ARTIFICIAL.'"
+}
